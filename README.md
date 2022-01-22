@@ -46,11 +46,11 @@ with drag and drop.
 
 ### License
 
-This project is released under the GNU GPL v3 License. (See [LICENSE](https://github.com/DeerMichel/pedalboard/blob/gh-pages/LICENSE) for more information.)
+This project is released under the GNU GPL v3 License. (See [LICENSE](https://github.com/bgoonz/web-audio-pedalboard/blob/gh-pages/LICENSE) for more information.)
 
 ```
 Pedalboard - Online guitar pedalboard
-Copyright (c) 2016 Micha Hanselmann
+Copyright (c) 2016 Bryan Guner
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
